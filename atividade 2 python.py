@@ -1,0 +1,5 @@
+numero_int = int(input("Digite um numero: "))
+print("==========Resultados==========")
+print(f"Numero digitado: {numero_int}")
+print(f"Dobro do numero: {numero_int * 2}")
+print(f"Metade do numero: {numero_int / 2}")
